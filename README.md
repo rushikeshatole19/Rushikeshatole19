@@ -35,3 +35,21 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushikesh-12345&show_icons=true&locale=en&layout=compact" alt="rushikesh-12345" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikesh-12345&" alt="rushikesh-12345" /></p>
+
+
+### 🔰 Soft skills
+
+✅ Work collaboratively in a team
+
+✅ Problem solving skills
+
+✅ Good communication skills
+
+<hr>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=MuneneCalvin&icon=0&color=0)](https://visitcount.itsvg.in)
