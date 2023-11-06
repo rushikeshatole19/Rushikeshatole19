@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C , C++ , Java , Python**
 
-- 👨‍💻 All of my projects are available at [https://peerlist.io/rushikeshatole](https://peerlist.io/rushikeshatole)
+- 👨‍💻 All of my projects are available at [![Peerlist](https://github-readme-badge.peerlist.io/api/rushikeshatole?style=social)](https://peerlist.io/rushikeshatole)
 
 - 📝 I regularly write articles on [https://rushikeshatole.blogspot.com](https://rushikeshatole.blogspot.com)
 
