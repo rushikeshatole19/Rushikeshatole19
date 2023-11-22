@@ -1,6 +1,8 @@
 ![logo](https://github.com/Rushikesh-12345/Rushikesh-12345/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Rushikesh Atole</h1>
+<h4 align="center"> Native (C / C++) | Virtual (Java) | AI - Machine Learning (Python/ Pandas/ Scikit Learn) </h4>
 <h3 align="center">A Passionate Hardcore Software Developer from India</h3>
+<h3 align="center">🔭 I'm a Software Developer</h3><h3 align="center">👀 Always exploring Technologies & Programming </h3><h3 align="center">🌱 Languages known: C, C++, Java, Python</h3><h3 align="center"> 🦾 Good at Data Structure, Algorithm & Logic Building</h3><h3 align="center"> 🤝 Looking for opportunities to collaborate as a Programmer </h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -8,15 +10,25 @@
 
 <p align="left"> <a href="https://twitter.com/rushikeshatole7" target="blank"><img src="https://img.shields.io/twitter/follow/rushikeshatole7?logo=twitter&style=for-the-badge" alt="rushikeshatole7" /></a> </p>
 
-- 🌱 I’m currently learning **C , C++ , Java , Python**
+- 🏆 Goal : To have expertise in **multiple languages, technologies & divisions as a Software Developer**
 
+- 🌩️ Belief : **One can make a difference**
+
+- 💞 Love : To take **Challenges & Conquer them**
+
+- 📘 Motive : **Learning == Growth**
+
+- 🌱 Learning Topic : **UNIX Internals & Linux System Programming**
+
+- 😆 Fun fact : Someday expecting to code in **Binary** 🤪
+- 
 - 👨‍💻 All of my projects are available at [![Peerlist](https://github-readme-badge.peerlist.io/api/rushikeshatole?style=social)](https://peerlist.io/rushikeshatole)
 
 - 📝 I regularly write articles on [https://rushikeshatole.blogspot.com](https://rushikeshatole.blogspot.com)
 
 - 📫 How to reach me **rushikeshatole75@gmail.com**
 
-- ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
