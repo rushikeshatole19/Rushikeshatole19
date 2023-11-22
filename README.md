@@ -6,10 +6,10 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikesh-12345&label=Profile%20views&color=0e75b6&style=flat" alt="rushikesh-12345" /> </p>
 
-<h3 align="right">👀 Always exploring Technologies & Programming </h3>
-<h3 align="right">🌱 Languages known: C, C++, Java, Python</h3>
-<h3 align="right"> 🦾 Good at Data Structure, Algorithm & Logic Building</h3>
-<h3 align="right"> 🤝 Looking for opportunities to collaborate as a Programmer </h3>
+<h3 align="left">👀 Always exploring Technologies & Programming </h3>
+<h3 align="left">🌱 Languages known: C, C++, Java, Python</h3>
+<h3 align="left"> 🦾 Good at Data Structure, Algorithm & Logic Building</h3>
+<h3 align="left"> 🤝 Looking for opportunities to collaborate as a Programmer </h3>
 
 - 🏆 Goal : To have expertise in **multiple languages, technologies & divisions as a Software Developer**
 
