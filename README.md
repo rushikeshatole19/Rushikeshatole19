@@ -13,9 +13,7 @@
 
 - 🏆 Goal : To have expertise in **multiple languages, technologies & divisions as a Software Developer**
 
-- 🌩️ Belief : **One can make a difference**
-
-- 💞 Love : To take **Challenges & Conquer them**
+- 💞 Love : To take **Challenges & Conquer them to Craft Code for Tomorrow's Solutions**
 
 - 😆 Fun fact : Someday expecting to code in **Binary** 🤪
   
