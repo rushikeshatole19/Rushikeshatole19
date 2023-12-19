@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Hardcore Software Developer from India</h3>
 <h3 align="center">🔭 I'm a Software Developer</h3><h3 align="center">👀 Always exploring Technologies & Programming </h3><h3 align="center">🌱 Languages known: C, C++, Java, Python</h3><h3 align="center"> 🦾 Good at Data Structure, Algorithm & Logic Building</h3><h3 align="center"> 🤝 Looking for opportunities to collaborate as a Programmer </h3>
 
-<img align="right" alt="coding" width="400" src="https://komarev.com/ghpvc/?username=Adityakaldhone&label=Profile%20views&color=0e75b6&style=flat">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikesh-12345&label=Profile%20views&color=0e75b6&style=flat" alt="rushikesh-12345" /> </p>
 
