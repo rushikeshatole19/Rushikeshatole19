@@ -1,6 +1,5 @@
 ![logo](https://github.com/rushikeshatole19/Rushikeshatole19/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Rushikesh Atole</h1>
-<h3 align="center">A Passionate Hardcore Software Developer from India</h3>
 <h3 align="center">🔭 I'm a Software Developer</h3><h3 align="center">Know the code, till the core </h3>
 <h3 align="center">👀 Always exploring Technologies & Programming </h3><h3 align="center">🌱 Languages known: C, C++, Java, Python</h3>
 <h3 align="center"> 🦾 Good at Data Structure, Algorithm & Logic Building</h3><h3 align="center"> 🤝 Looking for opportunities to collaborate as a Programmer </h3>
@@ -21,7 +20,7 @@
 
 - 🌱 Learning Topic : **UNIX Internals & Linux System Programming**
 
-- 😆 Fun fact : Someday expecting to code in **Binary** 🤪
+- 😆 Fun fact: Someday expecting to code in **Binary** 🤪
 - 
 - 👨‍💻 All of my projects are available at [![Peerlist](https://github-readme-badge.peerlist.io/api/rushikeshatole?style=social)](https://peerlist.io/rushikeshatole)
 
@@ -54,7 +53,7 @@
 
 ✅ Work collaboratively in a team
 
-✅ Problem solving skills
+✅ Problem-solving skills
 
 ✅ Good communication skills
 
